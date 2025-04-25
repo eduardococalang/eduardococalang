@@ -1,16 +1,35 @@
-## Hi there 👋
+# ¡Hola, soy Eduardo! 👋
 
-<!--
-**eduardococalang/eduardococalang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspirante a profesional IT | Desarrollo Web | Entusiasta en hacer que las cosas funcionen
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Sobre mí
+Soy una persona apasionada por el mundo de la tecnología y el desarrollo web. Actualmente estoy en proceso de crecimiento profesional, buscando mi primera oportunidad en el sector IT.
+
+- Aprendiendo y mejorando cada día.
+- Especialmente interesado en el desarrollo Frontend y Backend.
+- Motivado, organizado y con ganas de afrontar nuevos retos.
+
+---
+
+## Tecnologías que manejo
+- **Frontend:** HTML5 | CSS3 | JavaScript | Angular
+- **Backend:** Node.js | Express | JAVA | SPRINGBOOT
+- **Base de datos:** MySQL | MongoDB
+- **Herramientas:** Git | GitHub | VSCode | JIRA | LIFERAY DXP
+
+---
+
+## Proyectos destacados
+- [Portfolio Personal](#) (en construcción)
+- [Nombre del proyecto 1](#)
+- [Nombre del proyecto 2](#)
+
+---
+
+## ¿Hablamos?
+- **Correo:** [eduardo.cocalang@gmail.com](mailto:eduardo.cocalang@gmail.com)
+- **LinkedIn:** [EduardoCocaLang](#)
+
+---
